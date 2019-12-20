@@ -13,6 +13,7 @@
         <jdk.version>1.8</jdk.version>
         <jbehave.version>4.6.1</jbehave.version>
         <junit.version>5.6.0-M1</junit.version>
+        <junit_platform.version>1.0.0</junit_platform.version>
         <mockito.version>3.2.4</mockito.version>
         <hamcrest.version>2.1</hamcrest.version>
         <jbehave_junit.version>2.2.1</jbehave_junit.version>
@@ -97,6 +98,13 @@
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
             <version>${junit.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.junit.platform</groupId>
+            <artifactId>junit-platform-runner</artifactId>
+            <version>${junit_platform.version}</version>
+            <scope>test</scope>
         </dependency>
 
         <dependency>
