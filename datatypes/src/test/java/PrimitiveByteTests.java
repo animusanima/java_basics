@@ -6,7 +6,6 @@ import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.MatcherAssert.assertThat;
 
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
-@Tag("byte")
 public class PrimitiveByteTests
 {
     byte b;
@@ -28,7 +27,7 @@ public class PrimitiveByteTests
 
     @ParameterizedTest
     @DisplayName("Testing boundaries")
-    @ValueSource(bytes={0, 1, 2, 4, 8, 16, 32, 64, (byte) 127, (byte) -128, (byte) 128, (byte) -129})
+    @ValueSource(bytes={0, 1, 2, 4, 8, 16, 32, 64, (byte) 127, (byte) -128})
     @Order(4)
     public void assigningValueToByteReturnsValue(byte value)
     {

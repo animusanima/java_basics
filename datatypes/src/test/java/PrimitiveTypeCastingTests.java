@@ -1,8 +1,6 @@
 import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
-@Tag("casts")
 public class PrimitiveTypeCastingTests
 {
     byte b;
@@ -24,7 +22,6 @@ public class PrimitiveTypeCastingTests
     }
 
     @Test
-    @Tag("widening")
     public void wideningTypeCastTest()
     {
         b = 127;
@@ -43,7 +40,6 @@ public class PrimitiveTypeCastingTests
     }
 
     @Test
-    @Tag("narrowing")
     public void narrowingTypeCastTest()
     {
         d = 400.00;
@@ -51,13 +47,11 @@ public class PrimitiveTypeCastingTests
         l = (long) f;
         i = (int) l;
         s = (short) i;
-        b = (byte) s;
 
         assert(d == 400.00);
         assert(f == 400.00f);
         assert(l == (long) 400);
         assert(i == 400);
         assert(s == (short) 400);
-        assert(b != (byte) 400);
     }
 }

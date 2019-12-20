@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e08143a9-e2af-43c9-91ef-3a46ca244293" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/sgro/fizzbuzz/FizzBuzzPrintable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/sgro/fizzbuzz/FizzBuzzPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PrimitiveTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PrimitiveTypeCastingTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/de/sgro/fizzbuzz/FizzBuzzTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatypes.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/sgro/fizzbuzz/FizzBuzzPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/sgro/fizzbuzz/FizzBuzzPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/PrimitiveByteTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PrimitiveByteTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PrimitiveTypeCastingTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PrimitiveTypeCastingTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/sgro/fizzbuzz/FizzBuzzTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/sgro/fizzbuzz/FizzBuzzTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jbehave/AfterStories.stats" beforeDir="false" afterPath="$PROJECT_DIR$/target/jbehave/AfterStories.stats" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jbehave/BeforeStories.stats" beforeDir="false" afterPath="$PROJECT_DIR$/target/jbehave/BeforeStories.stats" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jbehave/view/AfterStories.stats.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/jbehave/view/AfterStories.stats.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jbehave/view/BeforeStories.stats.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/jbehave/view/BeforeStories.stats.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jbehave/view/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/jbehave/view/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jbehave/view/reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/jbehave/view/reports.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,11 +36,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/PrimitiveTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="6" column="75" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PrimitiveTypeCastingTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,30 +62,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/de/sgro/fizzbuzz/FizzBuzzTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/de/sgro/fizzbuzz/FizzBuzzPrinter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <state relative-caret-position="186">
+              <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
               <folding>
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/de/sgro/fizzbuzz/FizzBuzzPrintable.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PrimitiveByteTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            <state relative-caret-position="-84">
+              <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,8 +89,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JBehave Story" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
     <option name="SCHEME" value="Project" />
@@ -123,14 +128,18 @@
         <option value="$PROJECT_DIR$/src/main/java/de/sgro/scenario/ByteScenario.java" />
         <option value="$PROJECT_DIR$/src/main/java/de/sgro/primitives/PrimitiveByte.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/PrimitiveByteTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/PrimitiveTypeCastingTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/PrimitiveTestSuite.java" />
         <option value="$PROJECT_DIR$/src/main/java/de/sgro/fizzbuzz/FizzBuzzTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/de/sgro/fizzbuzz/fizzbuzz/FizzBuzzTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/de/sgro/fizzbuzz/FizzBuzzPrintable.java" />
-        <option value="$PROJECT_DIR$/src/test/java/de/sgro/fizzbuzz/FizzBuzzTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/de/sgro/fizzbuzz/FizzBuzz_Scenerario.java" />
+        <option value="$PROJECT_DIR$/src/test/java/de/sgro/fizzbuzz/FizzBuzzScenario.java" />
+        <option value="$PROJECT_DIR$/src/test/java/de/sgro/fizzbuzz/FizzBuzzStep.java" />
+        <option value="$PROJECT_DIR$/src/test/java/de/sgro/fizzbuzz/FizzBuzz_Scenario.story" />
         <option value="$PROJECT_DIR$/src/main/java/de/sgro/fizzbuzz/FizzBuzzPrinter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/de/sgro/fizzbuzz/FizzBuzzTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PrimitiveTypeCastingTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PrimitiveByteTests.java" />
       </list>
     </option>
   </component>
@@ -205,6 +214,24 @@
               <item name="datatypes" type="b2602c69:ProjectViewProjectNode" />
               <item name="datatypes" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sgro" type="462c0819:PsiDirectoryNode" />
+              <item name="scenario" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datatypes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datatypes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sgro" type="462c0819:PsiDirectoryNode" />
+              <item name="steps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datatypes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datatypes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -230,6 +257,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="datatypes" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
@@ -270,7 +301,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FizzBuzzTests">
+  <component name="RunManager" selected="JUnit.PrimitiveTestSuite">
+    <configuration name="FizzBuzzScenario" type="JUnit" factoryName="JUnit" singleton="false" temporary="true" nameIsGenerated="true" show_console_on_std_err="true" show_console_on_std_out="true">
+      <module name="datatypes" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="de.sgro.fizzbuzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.sgro.fizzbuzz" />
+      <option name="MAIN_CLASS_NAME" value="de.sgro.fizzbuzz.FizzBuzzScenario" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <fork_mode value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FizzBuzzTests" type="JUnit" factoryName="JUnit" singleton="false" temporary="true" nameIsGenerated="true" show_console_on_std_err="true" show_console_on_std_out="true">
       <module name="datatypes" />
       <extension name="coverage" sample_coverage="false">
@@ -295,18 +344,6 @@
       <option name="MAIN_CLASS_NAME" value="PrimitiveByteTests" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="PARAMETERS" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimitiveByteTests.unassignedValueEqualsZero" type="JUnit" factoryName="JUnit" editBeforeRun="true" singleton="false" temporary="true" nameIsGenerated="true" show_console_on_std_err="true" show_console_on_std_out="true">
-      <module name="datatypes" />
-      <extension name="coverage" sample_coverage="false" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PrimitiveByteTests" />
-      <option name="METHOD_NAME" value="unassignedValueEqualsZero" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -348,18 +385,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.PrimitiveByteTests" />
-      <item itemvalue="JUnit.PrimitiveByteTests.unassignedValueEqualsZero" />
       <item itemvalue="JUnit.PrimitiveTypeCastingTests" />
       <item itemvalue="JUnit.PrimitiveTestSuite" />
       <item itemvalue="JUnit.FizzBuzzTests" />
+      <item itemvalue="JUnit.FizzBuzzScenario" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FizzBuzzTests" />
         <item itemvalue="JUnit.PrimitiveTestSuite" />
+        <item itemvalue="JUnit.FizzBuzzTests" />
+        <item itemvalue="JUnit.FizzBuzzScenario" />
         <item itemvalue="JUnit.PrimitiveTypeCastingTests" />
         <item itemvalue="JUnit.PrimitiveByteTests" />
-        <item itemvalue="JUnit.PrimitiveByteTests.unassignedValueEqualsZero" />
       </list>
     </recent_temporary>
   </component>
@@ -374,35 +411,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrimitiveByteTests - 2019.12.20 at 09h 54m 56s.xml">
-      <configuration name="PrimitiveByteTests" configurationId="JUnit" />
+    <history-entry file="FizzBuzzScenario - 2019.12.20 at 12h 04m 43s.xml">
+      <configuration name="FizzBuzzScenario" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrimitiveTypeCastingTests - 2019.12.20 at 10h 14m 21s.xml">
-      <configuration name="PrimitiveTypeCastingTests" configurationId="JUnit" />
+    <history-entry file="FizzBuzzScenario - 2019.12.20 at 12h 07m 08s.xml">
+      <configuration name="FizzBuzzScenario" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrimitiveTypeCastingTests - 2019.12.20 at 10h 18m 20s.xml">
-      <configuration name="PrimitiveTypeCastingTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrimitiveTypeCastingTests - 2019.12.20 at 10h 20m 38s.xml">
-      <configuration name="PrimitiveTypeCastingTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrimitiveTestSuite - 2019.12.20 at 10h 41m 40s.xml">
-      <configuration name="PrimitiveTestSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrimitiveTestSuite - 2019.12.20 at 10h 42m 33s.xml">
-      <configuration name="PrimitiveTestSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrimitiveTestSuite - 2019.12.20 at 10h 43m 59s.xml">
-      <configuration name="PrimitiveTestSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrimitiveTestSuite - 2019.12.20 at 10h 45m 44s.xml">
-      <configuration name="PrimitiveTestSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrimitiveTestSuite - 2019.12.20 at 10h 48m 02s.xml">
-      <configuration name="PrimitiveTestSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTests - 2019.12.20 at 11h 10m 11s.xml">
+    <history-entry file="FizzBuzzTests - 2019.12.20 at 12h 10m 39s.xml">
       <configuration name="FizzBuzzTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTests - 2019.12.20 at 12h 12m 42s.xml">
+      <configuration name="FizzBuzzTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTests - 2019.12.20 at 12h 17m 44s.xml">
+      <configuration name="FizzBuzzTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTests - 2019.12.20 at 12h 18m 19s.xml">
+      <configuration name="FizzBuzzTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTests - 2019.12.20 at 12h 23m 32s.xml">
+      <configuration name="FizzBuzzTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTests - 2019.12.20 at 12h 26m 55s.xml">
+      <configuration name="FizzBuzzTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimitiveTestSuite - 2019.12.20 at 12h 29m 09s.xml">
+      <configuration name="PrimitiveTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimitiveTestSuite - 2019.12.20 at 12h 31m 19s.xml">
+      <configuration name="PrimitiveTestSuite" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -419,8 +456,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.328877" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4075067" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973262" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4075067" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -491,16 +528,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/de/sgro/scenario/ByteScenario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/de/sgro/primitives/PrimitiveByte.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -508,40 +535,6 @@
           <folding>
             <element signature="e#184#185#0" expanded="true" />
             <element signature="e#213#214#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PrimitiveTypeCastingTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PrimitiveTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="75" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PrimitiveByteTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -560,20 +553,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/de/sgro/fizzbuzz/FizzBuzzTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/de/sgro/fizzbuzz/FizzBuzzScenario.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/de/sgro/fizzbuzz/FizzBuzzStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/de/sgro/fizzbuzz/FizzBuzz_Scenario.story">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sgro/scenario/ByteScenario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/de/sgro/fizzbuzz/FizzBuzzPrinter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="90">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.6.0-M1/junit-jupiter-engine-5.6.0-M1.jar!/org/junit/jupiter/engine/execution/InvocationInterceptorChain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.6.0-M1/junit-platform-commons-1.6.0-M1.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="356" selection-start-line="356" selection-end-line="356" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/de/sgro/fizzbuzz/FizzBuzzTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
           <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PrimitiveTypeCastingTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PrimitiveByteTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PrimitiveTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
