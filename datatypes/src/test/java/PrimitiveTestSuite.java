@@ -4,7 +4,8 @@ import org.junit.platform.suite.api.SelectClasses;
 import org.junit.runner.RunWith;
 
 @RunWith(JUnitPlatform.class)
-@SelectClasses({PrimitiveByteTests.class, PrimitiveTypeCastingTests.class, FizzBuzzTests.class})
+@SelectClasses({PrimitiveByteTests.class, PrimitiveTypeCastingTests.class, FizzBuzzTests.class
+})
 public class PrimitiveTestSuite
 {
 

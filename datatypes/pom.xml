@@ -16,7 +16,7 @@
         <junit_platform.version>1.0.0</junit_platform.version>
         <mockito.version>3.2.4</mockito.version>
         <hamcrest.version>2.1</hamcrest.version>
-        <jbehave_junit.version>2.2.1</jbehave_junit.version>
+        <spectrum.version>1.2.0</spectrum.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
@@ -87,11 +87,10 @@
             <version>${mockito.version}</version>
         </dependency>
 
-        <!-- https://mvnrepository.com/artifact/org.jbehave/jbehave-core -->
         <dependency>
-            <groupId>org.jbehave</groupId>
-            <artifactId>jbehave-core</artifactId>
-            <version>${jbehave.version}</version>
+            <groupId>com.greghaskins</groupId>
+            <artifactId>spectrum</artifactId>
+            <version>${spectrum.version}</version>
         </dependency>
 
         <dependency>
@@ -112,12 +111,6 @@
             <artifactId>hamcrest-core</artifactId>
             <version>${hamcrest.version}</version>
             <scope>compile</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>com.github.valfirst</groupId>
-            <artifactId>jbehave-junit-runner</artifactId>
-            <version>${jbehave_junit.version}</version>
         </dependency>
 
     </dependencies>
